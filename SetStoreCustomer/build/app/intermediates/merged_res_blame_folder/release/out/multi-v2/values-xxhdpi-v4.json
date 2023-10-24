@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.foundercode.sethstore.app-mergeReleaseResources-100:/values-xxhdpi-v4/values-xxhdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\FounderCodes\\.gradle\\caches\\transforms-3\\59179c2bd1adae8eb8955d8e5c22351a\\transformed\\jetified-payments-core-20.16.2\\res\\values-xxhdpi-v4\\values-xxhdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "56",
+                        "endOffsets": "107"
+                    }
+                }
+            ]
+        }
+    ]
+}

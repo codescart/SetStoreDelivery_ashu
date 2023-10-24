@@ -1,0 +1,12 @@
+io.flutter.plugins.pathprovider.path_provider_android-jetified-window-1.0.0-beta04-0 C:\Users\FounderCodes\.gradle\caches\transforms-3\8f872ebaeae8e3ea06b5993f4b8e4618\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.pathprovider.path_provider_android-core-1.6.0-1 C:\Users\FounderCodes\.gradle\caches\transforms-3\976d0d21e7b19a8ec73a969116864661\transformed\core-1.6.0\res
+io.flutter.plugins.pathprovider.path_provider_android-jetified-window-java-1.0.0-beta04-2 C:\Users\FounderCodes\.gradle\caches\transforms-3\c40715211ea2ddd8260e10ae90b84c42\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.pathprovider.path_provider_android-jetified-annotation-experimental-1.1.0-3 C:\Users\FounderCodes\.gradle\caches\transforms-3\f5687d15d82e30c4681345609d15a3ad\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.pathprovider.path_provider_android-main-4 C:\Users\FounderCodes\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_android-2.2.0\android\src\main\res
+io.flutter.plugins.pathprovider.path_provider_android-release-5 C:\Users\FounderCodes\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_android-2.2.0\android\src\release\res
+io.flutter.plugins.pathprovider.path_provider_android-pngs-6 D:\SetStore 21-07-2023\SetStoreDelivery\build\path_provider_android\generated\res\pngs\release
+io.flutter.plugins.pathprovider.path_provider_android-resValues-7 D:\SetStore 21-07-2023\SetStoreDelivery\build\path_provider_android\generated\res\resValues\release
+io.flutter.plugins.pathprovider.path_provider_android-rs-8 D:\SetStore 21-07-2023\SetStoreDelivery\build\path_provider_android\generated\res\rs\release
+io.flutter.plugins.pathprovider.path_provider_android-mergeReleaseResources-9 D:\SetStore 21-07-2023\SetStoreDelivery\build\path_provider_android\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.pathprovider.path_provider_android-mergeReleaseResources-10 D:\SetStore 21-07-2023\SetStoreDelivery\build\path_provider_android\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.pathprovider.path_provider_android-merged_res-11 D:\SetStore 21-07-2023\SetStoreDelivery\build\path_provider_android\intermediates\merged_res\release

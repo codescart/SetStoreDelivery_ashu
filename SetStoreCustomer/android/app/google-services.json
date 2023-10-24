@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "196830044071",
+    "firebase_url": "https://sethstore-ddb6f-default-rtdb.firebaseio.com",
+    "project_id": "sethstore-ddb6f",
+    "storage_bucket": "sethstore-ddb6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196830044071:android:8a219561f77be3e664a082",
+        "android_client_info": {
+          "package_name": "com.foundercode.sethstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196830044071-h9c7jimar5jgar10ab6e0erbg4jrh752.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsG93wb0Irw0Bqj1D4JKGmnfvY0WElf9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "196830044071-h9c7jimar5jgar10ab6e0erbg4jrh752.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
